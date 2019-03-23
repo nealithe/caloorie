@@ -1,0 +1,10 @@
+#dropdown {
+    display: block;
+    border: solid blue 1px;
+    /* position: relative; */
+    left: 0;
+}
+
+.hidden {
+    visibility: hidden;
+}
